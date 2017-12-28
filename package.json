@@ -2,6 +2,9 @@
   "name": "cloudant-handson",
   "version": "0.0.1",
   "author": "Fernando Cardoso Durier da Silva",
+  "scripts":{
+    "start":"node app.js"
+  },
   "dependencies": {
     "body-parser": "^1.18.2",
     "cfenv": "^1.0.4",
